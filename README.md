@@ -70,7 +70,7 @@ Revenue−(Costs+Expected Losses+Taxes)
  
 This metric enables analysts to compare Barclays' financial performance with that of other financial institutions, such as ING Bank, Lloyds, and Credit Suisse, by evaluating their respective RAROC values.
 
-This README provides an overview of the key components of the Barclays Bank Risk Report Group Project, detailing the risk measurement methodologies used (VaR analysis, stress testing, and scenario analysis) and summarizing the critical findings and their implications for potential investors.
+This README provides an overview of the key components of the Barclays Bank Risk Report Group Project, detailing the risk measurement methodologies used (VaR analysis, stress testing, and scenario analysis), literarure research, and summarizing the critical findings and their implications for potential investors.
 
 ## Author
 
